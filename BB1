@@ -147,12 +147,12 @@
 "city": "Palm Beach",
 "mascot": "Breakers",
 "short": "PBB",
-"homeText": "FFFFFF",
-"homeMain": "98002E",
-"homeSecondary": "F9A01B",
-"awayText": "98002E",
-"awayMain": "FFFFFF",
-"awaySecondary": "F9A01B",
+"homeText": "CDD4DB",
+"homeMain": "050D44",
+"homeSecondary": "E74826",
+"awayText": "050D44",
+"awayMain": "16B5CE",
+"awaySecondary": "E74826",
 "logoURL": "https://dl.dropbox.com/s/ybzkj73hmjhbxyr/breakers.png"
 },
 {
