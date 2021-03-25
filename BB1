@@ -27,8 +27,8 @@
 "city": "Palm Beach",
 "mascot": "Breakers",
 "short": "PB",
-"homeText": "FFFFFF",
-"homeMain": "888888",
+"homeText": "00447B",
+"homeMain": "979797",
 "homeSecondary": "00447B",
 "awayText": "00447B",
 "awayMain": "FFFFFF",
@@ -44,7 +44,7 @@
 "homeSecondary": "0E2A60",
 "awayText": "0E2A60",
 "awayMain": "FFFFFF",
-"awaySecondary": "0E2A60",
+"awaySecondary": "DCC326",
 "logoURL": "https://dl.dropbox.com/s/woaedc3wp7g1atv/conch%20republic.png"
 },
 {
@@ -52,11 +52,11 @@
 "mascot": "Mets",
 "short": "STL",
 "homeText": "FFFFFF",
-"homeMain": "F18237",
-"homeSecondary": "0C518D",
-"awayText": "F18237",
+"homeMain": "0C518D",
+"homeSecondary": "F18237",
+"awayText": "0C518D",
 "awayMain": "FFFFFF",
-"awaySecondary": "0C518D",
+"awaySecondary": "F18237",
 "logoURL": "https://dl.dropbox.com/s/r2zmray06u1p6nd/st%20lucie.png"
 },
 {
@@ -114,9 +114,9 @@
 "homeText": "FFFFFF",
 "homeMain": "663989",
 "homeSecondary": "F4B330",
-"awayText": "663989",
+"awayText": "F4B330",
 "awayMain": "FFFFFF",
-"awaySecondary": "F4B330",
+"awaySecondary": "663989",
 "logoURL": "https://dl.dropbox.com/s/8qfsqd889m3iui8/ft%20myers.png"
 },
 {
@@ -149,10 +149,10 @@
 "short": "CLR",
 "homeText": "FCAC34",
 "homeMain": "000000",
-"homeSecondary": "7BC4F0",
+"homeSecondary": "FCAC34",
 "awayText": "000000",
 "awayMain": "FFFFFF",
-"awaySecondary": "7BC4F0",
+"awaySecondary": "FCAC34",
 "logoURL": "https://dl.dropbox.com/s/nn3zgmpgloqzlw1/clearwater.png"
 },
 {
@@ -255,12 +255,12 @@
 "city": "Space Coast",
 "mascot": "Guardians",
 "short": "SPC",
-"homeText": "5B5B5B",
+"homeText": "CDD2DC",
 "homeMain": "000000",
-"homeSecondary": "CDD2DC",
-"awayText": "000000",
+"homeSecondary": "A4ABB6",
+"awayText": "5B5B5B",
 "awayMain": "FFFFFF",
-"awaySecondary": "5B5B5B",
+"awaySecondary": "000000",
 "logoURL": "https://dl.dropbox.com/s/uekr7dps41k2xoe/space%20coast.png"
 },
 {
@@ -292,11 +292,11 @@
 "mascot": "Conquistadors",
 "short": "STA",
 "homeText": "000000",
-"homeMain": "E5C424",
-"homeSecondary": "AC7132",
-"awayText": "AC7132",
+"homeMain": "AC7132",
+"homeSecondary": "E5C424",
+"awayText": "000000",
 "awayMain": "FFFFFF",
-"awaySecondary": "E5C424",
+"awaySecondary": "AC7132",
 "logoURL": "https://dl.dropbox.com/s/cyoeucjjkgyiip1/st%20augustine.png"
 },
 {
@@ -306,9 +306,9 @@
 "homeText": "FFFFFF",
 "homeMain": "044424",
 "homeSecondary": "623990",
-"awayText": "044424",
+"awayText": "623990",
 "awayMain": "FFFFFF",
-"awaySecondary": "623990",
+"awaySecondary": "044424",
 "logoURL": "https://dl.dropbox.com/s/ywiibonlcnlae8s/gainesville.png"
 },
 {
@@ -329,10 +329,10 @@
 "short": "PCA",
 "homeText": "232754",
 "homeMain": "63AFCD",
-"homeSecondary": "FFFFFF",
+"homeSecondary": "232754",
 "awayText": "232754",
 "awayMain": "FFFFFF",
-"awaySecondary": "63AFCD",
+"awaySecondary": "232754",
 "logoURL": "https://dl.dropbox.com/s/cb09ivevoujceso/pensacola.png"
 },
 {
@@ -352,11 +352,11 @@
 "mascot": "Minutemen",
 "short": "OKL",
 "homeText": "0C4C83",
-"homeMain": "000000",
-"homeSecondary": "A42027",
-"awayText": "0C4C83",
+"homeMain": "A42027",
+"homeSecondary": "FFFFFF",
+"awayText": "A42027",
 "awayMain": "FFFFFF",
-"awaySecondary": "A42027",
+"awaySecondary": "0C4C83",
 "logoURL": "https://dl.dropbox.com/s/lbj3btezjgfmsf3/okaloosa.png"
 }
 ]
